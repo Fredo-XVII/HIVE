@@ -8,4 +8,6 @@ Anything Hive
     - https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DDL#LanguageManualDDL-CreateTable
   - MANUAL
     - https://cwiki.apache.org/confluence/display/Hive/LanguageManual
- 
+    
+  - FUNCTIONS 
+    - https://www.qubole.com/resources/cheatsheet/hive-function-cheat-sheet/
