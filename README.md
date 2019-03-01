@@ -11,3 +11,7 @@ Anything Hive
     
   - FUNCTIONS 
     - https://www.qubole.com/resources/cheatsheet/hive-function-cheat-sheet/
+
+# Settings for ODBC Connection:
+  - ADD TEZ SETTINGS:
+    - https://community.hortonworks.com/content/supportkb/49486/how-to-set-hiveexecutionengine-using-hortonworks-h.html
